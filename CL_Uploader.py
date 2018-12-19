@@ -12,8 +12,8 @@ from selenium.common.exceptions import NoSuchElementException
 os.chdir("./JPEGS")
 
 # Login Page-----------------------------------------------
-userName = "noelt"
-passWord = "N51663T"
+userName = "*****"
+passWord = "*****"
 hlNumber = os.environ["item"]
 # hlNumber = raw_input("What's the HL Item with leading zeros #: ")
 # hlNumber = ("00277252")
